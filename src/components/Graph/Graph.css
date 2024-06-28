@@ -1,0 +1,10 @@
+.Graph{
+    margin: 1%;
+    margin-left: 5%;
+    height: 75%;
+    width: 90%;
+    background-color: chartreuse;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}

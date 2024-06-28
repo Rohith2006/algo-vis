@@ -1,0 +1,50 @@
+.Navbar{
+    height: 15vh;
+    width: 100vw;
+    background-color: blue;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+input{
+
+    height: 30%;
+    width: 4%;
+    font-size: 2vw;
+}
+
+h1{
+    margin: 1%;
+    margin-left: 3%;
+}
+
+select{
+    height: 30%;
+    width: 20%;
+    font-size: 1.6vw;
+}
+
+button{
+    margin: 2%;
+    height: 5vh;
+    width: 5vw;
+    color: aliceblue;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.play-pause{
+    background-color: green;
+    border: none;
+}
+
+.play-pause:active{
+    background-color: rgb(0, 100, 0);
+    border: none;
+}
+
+.fbf{
+
+}
